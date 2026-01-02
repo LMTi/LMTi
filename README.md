@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LMTi
+- 👋 Hi, I’m LMT
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on 
